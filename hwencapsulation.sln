@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hwencapsulation", "hwencapsulation\hwencapsulation.csproj", "{5650FCDB-61E6-4D71-B878-307F4662B7BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5650FCDB-61E6-4D71-B878-307F4662B7BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5650FCDB-61E6-4D71-B878-307F4662B7BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5650FCDB-61E6-4D71-B878-307F4662B7BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5650FCDB-61E6-4D71-B878-307F4662B7BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6A349125-FA1A-4F1A-BAFC-4541BEE5C1D7}
+	EndGlobalSection
+EndGlobal
